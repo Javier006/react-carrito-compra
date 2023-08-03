@@ -1,0 +1,56 @@
+.titulo{
+  font-size: 400%;
+  text-align:center;
+  font-style:italic;
+}
+
+.fotos{
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.FotoD{
+  height: 400px;
+  display: block;
+  margin: 0px auto
+
+}
+
+.TextD{
+  text-align:center;
+  font-size: xx-large;
+}
+
+.number{
+  width: 10rem;
+}
+
+.carrito{
+  width: 100px;
+}
+
+.carousel-inner{ 
+  width:100%; height:570px;
+ }
+
+.carousel-item {
+    position: absolute;
+    top: 50%;
+    margin-top: -40vh;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
+ /*.outlinenone {
+  outline: 
+  background-color: rgb(243, 11, 11);
+  border: 0;
+  
+ }*/
+ .outlinenone{
+  text-align: center;
+  width: 80px;
+}
